@@ -1,0 +1,52 @@
+[
+{      "street": "2100 Block B"
+        "city": "Mabopane",
+        "postalcode": "0190",
+        "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{		"street": "40 Blok str"
+        "city": "Johannesburg",
+        "postalcode": "0002",
+        "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{		"street": "90A Newton Ave"
+        "city": "",
+        "postalcode": "0002",
+        "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{		"street": "21 Jensen Ave"
+        "city": "Pretoria", 
+	    "postalcode": "0001",
+	    "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{
+	    "street": "45A Jensen Str"
+	    "city": "Cape Town",
+ 		"postalcode": "",
+        "province": "Western Cape",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{       "street": ""
+        "city": "Mabopane",
+        "postalcode": "0190",
+        "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+{		"street": "15 Braam Ave"
+        "city": "",
+        "postalcode": "0002",
+        "province": "Gauteng",
+        "country": "South Africa",
+        "iso2": "ZA"},
+
+{		"street": "26 Walker Str"
+        "city": "Washington", 
+	    "postalcode": "2000",
+	    "province": "",
+        "country": "South Africa",
+        "iso2": "US"}
+]
